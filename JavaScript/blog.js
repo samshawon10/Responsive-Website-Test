@@ -1,4 +1,3 @@
-//For Calling Home Page..
-document.getElementById("Home").addEventListener("click",function () {
-    window.location.href = "index.html";
-})
+this is the process
+you are wrong
+
